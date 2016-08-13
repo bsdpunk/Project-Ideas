@@ -23,3 +23,6 @@ Upload dotfiles
 ## FiveYearPlan
 A shell, that helps you enforce and track change towards your longterm goals. Reminders, Notifications, Personal LOgging, Device Loggling. Pebble Integration.
 
+## GPIO Raspberry Pi
+Experimenting with varios sensors/camera...On the Pi
+
