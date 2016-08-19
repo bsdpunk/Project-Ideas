@@ -26,3 +26,7 @@ A shell, that helps you enforce and track change towards your longterm goals. Re
 ## GPIO Raspberry Pi
 Experimenting with varios sensors/camera...On the Pi
 
+## Chrome Ext- Save Grepable Content for later
+Save selected text in a grepable format for later:
+Also Save Hangouts/Facebook Messages
+Save all the things
