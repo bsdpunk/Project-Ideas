@@ -30,3 +30,8 @@ Experimenting with varios sensors/camera...On the Pi
 Save selected text in a grepable format for later:
 Also Save Hangouts/Facebook Messages
 Save all the things
+
+## Deep Web Exploration tool
+
+## GSM automagic crackalacker
+
