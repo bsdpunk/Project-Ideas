@@ -1,5 +1,8 @@
 # Project-Ideas
 
+##Movie Rating thing
+Using Evo Algos, ffmpeg, an open dir webcrawler, and bash scripts, rate movies and better find matches. 
+
 ## Blog-a-log
 Blog writing assistance in the form of limited vim support and publishing in the form of a shell.
 
@@ -34,4 +37,4 @@ Save all the things
 ## Deep Web Exploration tool
 
 ## GSM automagic crackalacker
-
+## Automate Capturing of Various facebook IDs
